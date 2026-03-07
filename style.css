@@ -4,9 +4,22 @@ body{
 h1{
   text-align: center;
 }
+h2{
+  text-align: center;
+}
 p{
   text-align: center;
 }
 header{
-  text-align: left;
+  text-align: center;
+}
+ul{
+  text-align: center;
+  background: gold;
+}
+ul li{
+  background: red;
+}
+img{
+  text-align: center;
 }
