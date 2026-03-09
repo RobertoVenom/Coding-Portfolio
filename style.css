@@ -22,3 +22,12 @@ ul li{
 p.disclaimer{
   font-style: italic;
 }
+header{
+  background: purple;
+}
+a{
+  text-color: green;
+}
+footer{
+  background: purple;
+}
