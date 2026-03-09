@@ -30,3 +30,7 @@ img{
 p.disclaimer{
   font-style: italic;
 }
+div.gallery{
+  text-align: center;
+  display: normal;
+}
