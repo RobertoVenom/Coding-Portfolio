@@ -3,23 +3,28 @@ body{
 }
 h1{
   text-align: center;
+  font-size: 40px;
 }
 h2{
   text-align: center;
+  font-size: 32px;
 }
 p{
   text-align: center;
+  font-size: 16px;
 }
 header{
   text-align: center;
 }
 ul{
   text-align: center;
-  background: gold;
 }
 ul li{
   background: red;
 }
 img{
   text-align: center;
+}
+nav{
+  font-size: 16px;
 }
