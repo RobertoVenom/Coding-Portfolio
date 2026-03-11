@@ -23,7 +23,7 @@ ul li{
   background: red;
   font-size: 20px;
 }
-.list{
+ul.list{
   margin: 40px
 }
 p.disclaimer{
