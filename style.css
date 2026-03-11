@@ -29,15 +29,6 @@ p.disclaimer{
 header{
   background: cyan;
 }
-a:link{
-  text-color: green;
-}
-a:hover{
-  text-color: orange;
-}
-a:activate{
-  text-color: red;
-}
 footer{
   background: magenta;
 }
@@ -45,5 +36,5 @@ nav{
    position: sticky;
     top: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: Green;
 }
