@@ -26,11 +26,17 @@ p.disclaimer{
   font-style: italic;
 }
 header{
-  background: purple;
+  background: cyan;
 }
-a{
+a:link{
   text-color: green;
 }
+a:hover{
+  text-color: orange;
+}
+a:activate{
+  text-color: red;
+}
 footer{
-  background: purple;
+  background: magenta;
 }
