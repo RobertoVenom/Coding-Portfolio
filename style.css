@@ -41,6 +41,7 @@ footer{
 nav{
    position: sticky;
     top: 0;
+    font-size: 18px;
     overflow: hidden;
     background-color: Green;
 }
